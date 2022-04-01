@@ -1,1 +1,1 @@
-# ocean-files
+This is the repository used to store part of the binary files of the ocean (Scoop Bucket). All binaries are stored under the release board. Most binaries are not updated often or are no longer updated.
